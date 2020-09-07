@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>time200907</title>
+    <link href="/20200907/time200907/"/>
+    <url>/20200907/time200907/</url>
+    
+    <content type="html"><![CDATA[<p>2020.9.6<br>总记录时长: 511分钟</p><a id="more"></a><!DOCTYPE html><html><head>    <meta charset="utf-8">    <script src="https://cdn.staticfile.org/echarts/4.3.0/echarts.min.js"></script></head><body>    <div id="main" style="width: 600px;height:400px;"></div>    <script type="text/javascript">        var myChart = echarts.init(document.getElementById('main'));        var option = {                                series: [{                name: '时间管理',                type: 'pie',                    radius: '50%',                  data:[                          {value:23+24, name:'吃饭'},                {value:120, name:'game'},                {value:0, name:'bilibili'},                {value:102, name:'跑步'},                {value:19+19+51+7+43, name:'英语'},                {value:0, name:'工作'},                {value:0+11, name:'发呆'},                {value:0, name:'睡觉'},                {value:0, name:'拉屎'},                {value:90, name:'跑腿'},                {value:0, name:'折腾'}]            }]        };        myChart.setOption(option);    </script></body></html>]]></content>
+    
+    
+    <categories>
+      
+      <category>时间管理</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>witness the growth of mine</title>
+    <link href="/20200905/witness-the-growth-of-mine/"/>
+    <url>/20200905/witness-the-growth-of-mine/</url>
+    
+    <content type="html"><![CDATA[<p>如果我自己不改变自己，那这周遭的生活又么去发展呢。</p><a id="more"></a><ul><li>2020.9.5&emsp;&emsp;cfb.exe&emsp;&emsp;v 1.0.0<br>正式发布cfb，几个月前的cfb除了高考什么都不会，现在什么都不会。</li></ul><p>有人言我善变，愿如我所愿。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>手记</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>札记：《非暴力沟通》</title>
+    <link href="/20200829/noviolent-communication/"/>
+    <url>/20200829/noviolent-communication/</url>
+    
+    <content type="html"><![CDATA[<p>分享几个颇有意思的片段：</p><a id="more"></a><blockquote><p>十岁那年，白人打了我，他们认为我太黑了；接着，黑人有打了我，他们仍为我太白了。这样的耻辱也许会让任何人想报复社会。</p></blockquote><p>感受到中国义务教育满满的善意。</p><blockquote><p>每天晚上，他会和我一起分析一天中的经历———我的所读，所看，所做。</p></blockquote><p>吾日省吾身，真的是一个很好的习惯。圣益圣。</p><blockquote><p>他接着建议读者想想他们现在的成就，然后和莫扎特十二岁时的成就作比较，<strong>并用心体会差别</strong>。</p></blockquote><p>这里讲到了”比较”带给人丧的一面。这个<strong>用心体会</strong>真的太令人哈皮了。我高考完整天难受，身边的人一个一个的华五c9,我一个普通双非，感觉前途暗淡无光。打开网页，一片一片的家里有矿，一个一个的超高颜值，感觉自己就是废物（<del>真相了</del>）。好在制杖者常乐。我还是能从自己的沙雕生活中找到很多乐趣。唉，装傻可能还真是一个长久之计。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>札记</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>札记：《上海交通大学生存手册》</title>
+    <link href="/20200828/survivesjtumanual/"/>
+    <url>/20200828/survivesjtumanual/</url>
+    
+    <content type="html"><![CDATA[<p>幼时的我，很喜欢打游戏，于是立志要做出这个世界上最好玩的游戏。<br>然而，随着年岁渐长，我开始意识到，那所谓最好玩的游戏，其实早已存在。</p><a id="more"></a><hr><p>有幸遇见这小手册，虽然自己和交大没什么关系，但还是花了不少时间拜读了一下。<br>感叹之余，倒也更加明确了自己的方向。</p><p>小手册里面给出了一个很有意思的问题，就是”我们为什么要上课？”<br>更有意思的是，这个问题在我在高中时就研究过了。<br>当然，我想每一个人都会有自己的答案。</p><p>接下来分享几个手册提到的点。</p><ul><li>技术栈</li></ul><p>如果已经有自己的职业规划（<del>职业幻想</del>），那么务必要重视自己内心的想法。<br>而技术栈，我认为就是指完成一项工作所需要具备的各种技能或者说能力。<br>提早认识到自己的短板，并努力的去将其做好。<br>毕竟没有所谓的老师来教会我所需的每一项技能。<br>同时，自己本身不改变，周遭的生活自然难以产生变化。</p><ul><li>研究</li></ul><p>学术研究算的上是大学的独特之处，越提早接触越好。<br>不过我寻思我也许不适合做什么研究吧。</p><p>手册的编写人站在了一个更高的视角来看所谓的大学四年。<br>给我这种对大学一无所知的学生带来了极大的帮助。<br>不过细心的朋友会发现，我所展现出来的两个点根本没有体现手册作者的本意。<br>这可能是因为立场和世界有所不同吧。</p><blockquote><p>我们要做好各种准备，去迎接一个, 充满了复杂性和不缺定性的未来。</p></blockquote><p>毕竟，回顾我自己的生活，那些在确定道路上突然出现的不确定，才是在记忆之中最最最珍贵的美好。</p><hr><p><a href="https://liankeqin.gitbook.io/survivesjtumanual/" target="_blank" >《上海交通大学生存手册》</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>札记</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>珍重</title>
+    <link href="/20200826/blog-old-new/"/>
+    <url>/20200826/blog-old-new/</url>
+    
+    <content type="html"><![CDATA[<p>高考结束后，我黯淡地摊在自己那个堆满试卷的小卧室里。<br>“我活着是为了什么？”<br>还记得当时自己给自己的回答<br>“为了过去所有的记忆”</p><p>所以，你看，我这个傻子，相比未来，其实更在乎过去。<br>当然我知道。过去的都过去了，未来的也未必会来。</p><a id="more"></a><hr><p>之前，心心念念，想搭一个博客。<br>不图啥，就单纯想在这个魔幻的世界里找到一个安静的地方，有点隐居的味道。<br>没想到，好不容易博客搞出来了，朋友的第一个问题就引发了我的思考。<br>“你打算整合之前的博客吗？”</p><p>我之前的博客，哈，那个啊。</p><p><a href="https://blog.csdn.net/largecub233/article/details/54633763">https://blog.csdn.net/largecub233/article/details/54633763</a></p><p>那时的我，虽然傻的可怜，但还是知道自己在做什么事，知道自己放弃的是什么。<br>也知道自己会有一天，要离开这信息学的平台。<br>所以我在 2017-01-20这一天去csdn创建了自己的博客，其目的也很简单：<br>在我离开后，还有一点我的痕迹，其他人可以在我的基础上向前走。</p><p>一转眼就是两年过去了，回头再看看当年的自己，心里也是有说不出的滋味。</p><p>对过去道一声珍重；<br>对未来心存期满；<br>对当下置以最热切的关怀。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>海上灵光</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>to-do</title>
+    <link href="/20200825/2020-08to-do/"/>
+    <url>/20200825/2020-08to-do/</url>
+    
+    <content type="html"><![CDATA[<p>还有很多的东西没有搞，先在这里mark一下</p><p>换字体<br>评论系统<br>在博客中展示数学公式</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>About career choice</title>
+    <link href="/20200820/2020-08About-career-choice/"/>
+    <url>/20200820/2020-08About-career-choice/</url>
+    
+    <content type="html"><![CDATA[<p>高考结束良久，我终于在一点一点的试探之下把博客搭了起来。</p><a id="more"></a><p>未开始时总觉得搭博客是一件较为困难的事情，后来发现在今天这样的一个开源时代，相当多的技术已经由一代又一代的大佬接力，慢慢下沉落地，变得唾手可得。</p><p>本博客，其目的也就是记录生活，类似于日记。记录自己的学习成长，倘若能够结交到一些朋友，那便是格外的幸运。</p><p>回想自己信息学在役时期的博客，再想想自己高考的经历，虽说没什么好看的结果，但也不算辜负了自己。</p><p>选择了浙江师范大学，数学系。这个选择可能令大家感到意外，很多人好奇为什么不去继续学计算机。互联网时代，学计算机的确很占优势，但是自己可能不是那么适合吧。</p><p>或者说，自己想要一点改变。</p><p>至于之后的路，那还是要看自己的本事，毕竟，我是我。</p><p>最后，浙是大不算是教育部直属高校，也就无缘211，默哀。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>生活</category>
+      
+    </categories>
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
