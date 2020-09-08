@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>tryFluid</title>
+    <link href="/20200908/tryFluid/"/>
+    <url>/20200908/tryFluid/</url>
+    
+    <content type="html"><![CDATA[<h3>标签的使用：<p class="note note-primary">primary</p><p class="note note-secondary">secondary</p><p class="note note-success">success</p><p class="note note-danger">danger</p><p class="note note-info">info</p><p class="note note-light">light</p><p class="note note-warning">warning</p><h3>行内标签(which really drive me to crazy)：</h3><span class="label label-primary">primary</span> <span class="label label-default ">default </span><p><span class="label label-info ">info </span><br><span class="label label-success ">success </span><br><span class="label label-warning ">warning </span><br><span class="label label-danger">danger</span></p><h3>框框：</h3>            <input type="checkbox" disabled >这字体的位置好像有点问题          <p><span class="label label-danger"> 这里的框框是一种显示用的图标，并不能发生交互</span></p><h3>按钮：</h3><a class="btn" href="https://largecube.github.io" title="Go!!!">Rsuh B!</a>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>time200907</title>
     <link href="/20200907/time200907/"/>
     <url>/20200907/time200907/</url>
